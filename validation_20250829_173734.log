@@ -1,0 +1,6 @@
+
+[0;34m==============================================================================
+DATABASE STRUCTURE VALIDATION
+==============================================================================[0m
+[0;32m[INFO][0m Checking database schema modifications...
+[0;31m[ERROR][0m Missing database columns (found /2)
